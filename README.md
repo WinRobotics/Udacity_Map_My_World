@@ -8,7 +8,9 @@ then followed by the following
 
 roslaunch the following files found in **roslaunch my_robot mapping.launch** , **roslaunch my_robot teleop.launch** , **roslaunch my_robot localization.launch**
 
-**rtabmap.db file** can be found inside **my_robot/src/saved_map**
+**rtabmap.db file** can be found inside Google Drive Link as the file upload size is too big
+https://drive.google.com/drive/folders/1N7A3KbzzAoYJEojNcPiSEI1j6Cd8k1UT?usp=sharing
+
 
 **Mapping**
 
